@@ -1,0 +1,15 @@
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\bin\Debug\net6.0\task_03.exe
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\bin\Debug\net6.0\task_03.deps.json
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\bin\Debug\net6.0\task_03.runtimeconfig.json
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\bin\Debug\net6.0\task_03.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\bin\Debug\net6.0\task_03.pdb
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.csproj.AssemblyReference.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.AssemblyInfoInputs.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.AssemblyInfo.cs
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.csproj.CoreCompileInputs.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\refint\task_03.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.pdb
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\task_03.genruntimeconfig.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_CS_HW_sem1\task_03\obj\Debug\net6.0\ref\task_03.dll
