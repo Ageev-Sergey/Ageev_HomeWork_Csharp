@@ -1,0 +1,15 @@
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.csproj.AssemblyReference.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.AssemblyInfoInputs.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.AssemblyInfo.cs
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.csproj.CoreCompileInputs.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\bin\Debug\net6.0\task_27.exe
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\bin\Debug\net6.0\task_27.deps.json
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\bin\Debug\net6.0\task_27.runtimeconfig.json
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\bin\Debug\net6.0\task_27.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\bin\Debug\net6.0\task_27.pdb
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\refint\task_27.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.pdb
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\task_27.genruntimeconfig.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_27\obj\Debug\net6.0\ref\task_27.dll
