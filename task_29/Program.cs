@@ -113,5 +113,34 @@ bool checkRandomArray(string N, string min, string max)
 Console.WriteLine(String.Join(", ", myArray));
 
 
+VoidJoinArray(", ", myArray);
+
+void VoidJoinArray(string between, int[] arr)
+{
+    Console.Write("[");
+    for (int i = 0; i < arr.Length - 1; i++)
+    {
+        Console.Write($"{arr[i]}{between}");
+    }
+    Console.Write(arr[arr.Length - 1]);
+    Console.WriteLine("]");
+}
+
+
+
+Console.WriteLine(JoinArray(", ", myArray));
+
+string JoinArray(string between, int[] arr)
+{
+    string printJoinArray = Convert.ToString(arr[0]);
+    for (int i = 1; i < arr.Length; i++)
+    {
+        printJoinArray = printJoinArray + between + Convert.ToString(arr[i]);
+    }
+
+    return printJoinArray;
+}
+
+
 // И по прежнему не знаю как из метода который должен что-то возвращать, вернуть просто ошибку)))
 // В данном случае возвращаю пустой массив (
