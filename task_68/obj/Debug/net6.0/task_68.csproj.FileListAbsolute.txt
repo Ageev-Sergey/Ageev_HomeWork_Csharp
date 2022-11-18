@@ -1,0 +1,15 @@
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\bin\Debug\net6.0\task_68.exe
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\bin\Debug\net6.0\task_68.deps.json
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\bin\Debug\net6.0\task_68.runtimeconfig.json
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\bin\Debug\net6.0\task_68.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\bin\Debug\net6.0\task_68.pdb
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.csproj.AssemblyReference.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.AssemblyInfoInputs.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.AssemblyInfo.cs
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.csproj.CoreCompileInputs.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\refint\task_68.dll
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.pdb
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\task_68.genruntimeconfig.cache
+C:\Учеба gb\3 часть - Знакомство с языками программирования\Ageev_HomeWork_Csharp\task_68\obj\Debug\net6.0\ref\task_68.dll
